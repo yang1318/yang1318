@@ -1,4 +1,4 @@
-👋👋👋
+안녕하세요, 양선아입니다!👋
 
 <!--
 **yang1318/yang1318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
